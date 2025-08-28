@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: blue;
     display: flex;
     justify-content: space-between;
@@ -24,4 +24,21 @@ body {
     background-color: yellow;
     display: block;
     order: 2;
-}
+} */
+ .clac{
+    width: 200px;
+    height: 400px;
+    background-color: cornsilk;
+    /* display: flex;    
+    justify-content: center; */
+ }
+ .tatch{
+    background-color: rgba(18, 106, 141, 0.637);
+    border: 2px black solid;
+ }
+ .butt{
+    width: 200px;
+    height: 30px;
+    /* display: flex; */
+    justify-content: space-around;
+ }
