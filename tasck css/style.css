@@ -1,0 +1,27 @@
+body {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.m{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: block;
+    order: 3;
+}
+.n{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(23, 216, 39) ;
+    display: block;
+    order: 1;
+}
+.s{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    display: block;
+    order: 2;
+}
